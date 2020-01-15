@@ -11,8 +11,8 @@ def bisection(f, a, b, N):
     N : (positive) interger
         The number of iteration to implement.
     
-    Rerturn
-    -------
+    Return
+    ------
     x_N : number
         The midpoint of the Nth interval computed by the bisection method. The
         initial interval [a_0, b_0] is given by [a,b]. If f(m_n) == 0 for some
